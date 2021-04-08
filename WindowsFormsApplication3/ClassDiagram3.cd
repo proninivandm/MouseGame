@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication3.FormLevel1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEIAAACAQABDAACCAAAICAAAAQCAAAAAAAVABBAA=</HashCode>
+      <FileName>FormLevel1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication3.FormLevel2" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCUIQEQCAQABBAYACAAAACAAAIMEAFAACAARAgIAA=</HashCode>
+      <FileName>FormLevel2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication3.FormLevel3" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wQAAIIAACAAQBAAIACAAAACAAAAIAAAAAAAAAAgABA=</HashCode>
+      <FileName>FormLevel3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication3.FormLevel4" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9QAAAAAAACBAQBAAAACABAACAQAQAAAAgAAAAAAgAAA=</HashCode>
+      <FileName>FormLevel4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication3.FormLevel5" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+gAAAAAAACAAAAAAAAiAAAACAAAIAAAAAABAAAAAADA=</HashCode>
+      <FileName>FormLevel5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication3.FormMain" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAIACAAAACEQAAIAAABAAABABgIAA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication3.Program" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication3.sound" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABEMAAAAAIAAAAEBAAJAAAEAAIACAAAEAAAIAAAAA=</HashCode>
+      <FileName>sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication3.Properties.Resources" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAAQABcAEAAAAhEAAgARAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication3.Properties.Settings" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
